@@ -117,6 +117,11 @@ body {
     margin: 0 auto;
 }
 
+.red {
+    background: #951717;
+    white-space: pre-line;
+}
+
 .btn-table {
     padding: 5px 10px;
     background-color: #007bff;
